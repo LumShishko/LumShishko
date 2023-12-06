@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lumshishko10@gmail.com**
 
-- 📄 Know about my experiences [I've been learning coding at jCoders Digital School](I've been learning coding at jCoders Digital School)
+- 📄 Know about my experiences [I've been learning coding at jCoders, Digital School]
 
 - ⚡ Fun fact **I enjoy drawing**
 
